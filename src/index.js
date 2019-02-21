@@ -1,5 +1,6 @@
 const inputMessage=document.getElementById("message");
-const parrafResult=document.getElementById("result");
+const paragraphResult=document.getElementById("result");
+const inputNumber=document.getElementById("optionsnumber")
 
 const btncode=document.getElementById("btncode");
 btncode.addEventListener("click",() =>{
