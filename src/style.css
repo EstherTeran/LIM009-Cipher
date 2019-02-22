@@ -1,6 +1,6 @@
 h1{
     color: rgb(245, 196, 255);
-    background-color: rgb(196, 255, 206) ;
+    background: rebeccapurple;
     border: 1px inset black;
     text-align: center;
     border-radius:10px;
@@ -8,9 +8,10 @@ h1{
   }
   p {
     color:chartreuse;
-    background-color: rgb(196, 255, 206) ;
+    background-image: url ("https://img.freepik.com/foto-gratis/parques-montanas-reflexion-montana-decoracion-jardin_1417-1025.jpg?size=626&ext=jpg");
     border:10px double black;
     text-align:center;
     border-radius:1px;
     height: 40px;
     width: 400px;
+  }1
