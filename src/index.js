@@ -8,7 +8,5 @@ btnencode.addEventListener("click", () => {
 });
 const btndecipher=document.getElementById("btndecipher");
 btndecipher.addEventListener("click", () =>{
-    paragraphResult.innerHTML=window.cipher.decode(parseInt(inputoffset.value),inputtext.value.toUpperCase());
+paragraphResult.innerHTML=window.cipher.decode(parseInt(inputoffset.value),inputtext.value.toUpperCase());
 })
-
-

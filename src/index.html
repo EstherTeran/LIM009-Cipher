@@ -10,16 +10,20 @@
 </head>
 
 <body>
-    <div id="cajacentral">
-   <div id=title> <h1>Cifrado Musical <span>&sung;</span> </h1></div>
-    <p>¿Que deseas hacer ahora?</p>
-    <button id="btnencode">cifrar</button> 
-    <button id="btndecipher">descifrar</button>
+    <div id="cajacentral" class='centrado-lateral padding-15'>
+   <div id="title"> <h1>Cifrado Musical <span>&sung;</span> </h1></div>
+   <div class="padding-x centrado-lateral">
     <label for="string">Ingresa tu Texto</label> 
     <input type="text" id="inputtext">
-    <label for="inputoffset">ingresa tu codigo aqui</label>
-    <input type="number" id="inputoffset">
-    <p id="result">RESULTADO</p>
+    <label for="inputoffset">ingresa tu clave secreta</label>
+    <input type="number" id="inputoffset" placeholder="6757...">
+   </div>
+   <div class="padding-x centrado-lateral">
+    <p>¿Que deseas hacer ahora?</p>
+    <button id="btnencode">cifrar</button>
+    <button id="btndecipher">descifrar</button>
+   </div>
+  <div id="answer"> <p1 id="result">RESULTADO</p1></div> 
 </div>
     <script src="cipher.js"></script>
     <script src="index.js"></script>

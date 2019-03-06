@@ -1,6 +1,5 @@
 window.cipher = {
   encode: (offset, texto) => {
-   // const lengthText = texto.length; //2 AB
     let textencode = "";
     for (let i = 0; i < texto.length; i++) {
       const positionAscii = texto.charCodeAt(i);//65--posiciòn  en codigo ascii
@@ -12,7 +11,6 @@ window.cipher = {
   }
   ,
   decode: (offset, texto) => {
-    //const lengthText = texto.length;
     let textencode = "";
     for (let i = 0; i < texto.length; i++) {
       const positionAscii = texto.charCodeAt(i);//65--posiciòn  en codigo ascii

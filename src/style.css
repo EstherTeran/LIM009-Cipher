@@ -3,25 +3,73 @@ div#title{
     background-color:red;
     border: 1px inset black;
     text-align: center;
-    border-radius:10px;
+    /* border-radius:0%; */
+    /* width:50%; */
+    /* margin: 00 15% 0 25%; */
+    /* height: 10%; */
+    /* margin-top:30%; */
   }
-  p {
+  div#answer{
     color:chartreuse;
-    background: maroon;
+    background: chocolate;
     border:10px double black;
     text-align:center;
     border-radius:1px;
-    height: 40px;
-    width: 50%;
+    /* height: 10%; */
+    /* width: 45%; */
+    /* margin: 00 15% 0 25%; */
+    /* margin-top:20%; */
+  }
+  p {
+    color:chartreuse;
+    background: palevioletred;
+    border:10px double black;
+    text-align:center;
+    border-radius:1px;
+    /* height: 10%; */
+    /* width: 45%; */
+    /* margin: 00 15% 0 25%; */
+    /* margin-top:10%; */
+  }
+  button {
+    color:lightcoral;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
   }
   body {
     background-image: url("https://www.albumcancionyletra.com/images/dedicate/purple3.jpg");
+    box-sizing: border-box;
+  }
+  .centrado-lateral {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .padding-x {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .padding-15{
+    padding: 25px;
+  }
+  .container{
+    margin-left: 15px;
+    margin-right: 15px;
   }
   div#cajacentral {
-    margin: 0 auto; 
-    margin-top: 50px;
-    width:50%; 
-    height:600px;
+    /* margin: 10% auto;  */
+    width:80%; 
+    /* height:70vh; */
     background-color:whitesmoke;
+
+    /* margin: 0 auto; 
+    margin-top: 10%;
+    width:80%; 
+    height:10%;
+    background-color:whitesmoke; */
 
   }
