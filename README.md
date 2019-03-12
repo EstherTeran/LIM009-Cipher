@@ -1,4 +1,4 @@
-#CIFRADO MUSICAL
+##Cifrado Musical
 
 En la industria de la música  son muchos los artistas que luchan por lograr el éxito, pero todo el trabajo que realizan se puede venir abajo, debido a los plagios.Para evitar eso los compositores registran sus letras , pero que pasa si copian esa letra mientras aun pensaba en algunos cambios , la mejor manera de mantenerla segura es cifrandola.
 ![Cifrado-musical](https://fotos.subefotos.com/74e4298ffe40e2cba095f26c0078e3b1o.png)
