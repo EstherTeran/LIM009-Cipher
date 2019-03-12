@@ -3,22 +3,15 @@ div#title{
     background-color:red;
     border: 1px inset black;
     text-align: center;
-    /* border-radius:0%; */
-    /* width:50%; */
-    /* margin: 00 15% 0 25%; */
-    /* height: 10%; */
-    /* margin-top:30%; */
+  
   }
   div#answer{
     color:chartreuse;
-    background: chocolate;
+    background: palevioletred;
     border:10px double black;
     text-align:center;
     border-radius:1px;
-    /* height: 10%; */
-    /* width: 45%; */
-    /* margin: 00 15% 0 25%; */
-    /* margin-top:20%; */
+    
   }
   p {
     color:chartreuse;
@@ -26,10 +19,7 @@ div#title{
     border:10px double black;
     text-align:center;
     border-radius:1px;
-    /* height: 10%; */
-    /* width: 45%; */
-    /* margin: 00 15% 0 25%; */
-    /* margin-top:10%; */
+    
   }
   button {
     color:lightcoral;
@@ -66,10 +56,5 @@ div#title{
     /* height:70vh; */
     background-color:whitesmoke;
 
-    /* margin: 0 auto; 
-    margin-top: 10%;
-    width:80%; 
-    height:10%;
-    background-color:whitesmoke; */
-
+   
   }

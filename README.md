@@ -9,7 +9,7 @@ Puedes ingresar el offset que desees , esa sera por decirlo asi tu clave para de
 
 ##¿COMO FUNCIONA?
 ===============
-Es muy facil, te dejo el link por aqui => ![Sin titulo](https://estherteran.github.io/LIM009-Cipher/src/index)
+Es muy facil, te dejo el link por aqui => ![Cifrado Musical](https://estherteran.github.io/LIM009-Cipher/src/index)
 
 -Paso #1: Ingresa tu texto(composicion), en el primer casillero.
 
