@@ -1,16 +1,20 @@
-CIFRADO MUSICAL
+##CIFRADO MUSICAL
 ===============
 
 En la industria de la música  son muchos los artistas que luchan por lograr el éxito, pero todo el trabajo que realizan se puede venir abajo, debido a los plagios.Para evitar eso los compositores registran sus letras , pero que pasa si copian esa letra mientras aun pensaba en algunos cambios , la mejor manera de mantenerla segura es cifrandola.
-![Cifrado-musical](https://estherteran.github.io/LIM009-Cipher/src/index)
+![Cifrado-musical](https://thumbs.subefotos.com/74e4298ffe40e2cba095f26c0078e3b1o.jpg)
 
 Evita plagios y manten tus composiciones seguras.
 Puedes ingresar el offset que desees , esa sera por decirlo asi tu clave para descifrar tus letras.
-¿COMO FUNCIONA?
+
+##¿COMO FUNCIONA?
 ===============
-Es muy facil, tge dejo el link por aqui => ![Cifrado-musical](https://estherteran.github.io/LIM009-Cipher/src/index)
+Es muy facil, te dejo el link por aqui => ![Sin titulo](https://estherteran.github.io/LIM009-Cipher/src/index)
+
 -Paso #1: Ingresa tu texto(composicion), en el primer casillero.
+
 -Paso #2: Ingresa tu clave(offset) recuerde que puede contener el numero que tu desees y los digitos que tu elijas.
+
 -paso#3: Listo ya puedes copiar tu texto cifrado , no importa quien lo lea , nadie podra descifrarlo a menos que tenga tu clave ;) .
 
 ## Recursos y temas relacionados
