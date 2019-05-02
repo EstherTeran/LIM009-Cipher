@@ -1,6 +1,6 @@
 const inputtext=document.getElementById("inputtext");
 const paragraphResult=document.getElementById("result");
-const inputoffset=document.getElementById("inputoffset")
+const inputoffset=document.getElementById("inputoffset");
 
 const btnencode=document.getElementById("btnencode");
 btnencode.addEventListener("click", () => {

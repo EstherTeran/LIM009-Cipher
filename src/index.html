@@ -9,21 +9,25 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
-    <div id="cajacentral" class="centrado-lateral padding-15">
-   <div id="title"> <h1>Cifrado Musical <span>&sung;</span> </h1></div>
-   <p>¿Que deseas hacer ahora?</p>
-   <div class="padding-x centrado-lateral">
-    <label for="string">Ingresa tu Texto</label> 
-    <input type="text" id="inputtext">
-    <label for="inputoffset">ingresa tu clave secreta</label>
-    <input type="number" id="inputoffset" placeholder="6757...">
-   </div>
-   <div class="padding-x centrado-lateral">
-    <button id="btnencode">cifrar</button>
-    <button id="btndecipher">descifrar</button>
-   </div>
-  <div id="answer"> <p1 id="result">RESULTADO</p1></div> 
+<body >
+    <div  class="fila">
+        <div class="container-general col-xs-12">
+            <div class="caja-mediana col-xs-8">
+                <div class="fila">
+  <h1 class="col-xs-12">Cifrado Musical <span>&sung;</span> </h1>
+  <p class="t-entrada col-xs-11">!....Ahora puedes cifrar tus letras y estar seguro que nadie podra copiarlas o plagiarlas antes de que puedas registrarlas como tuyas < &#128272;> </p>
+  <p class="pregunta col-xs-12">¿Que deseas hacer ahora?</p>
+    <label class="col-xs-12" for="string">Ingresa tu Texto</label> 
+    <input class="col-xs-7 c-imput" type="text" id="inputtext">
+    <label class="col-xs-12" for="inputoffset">ingresa tu clave secreta</label>
+    <input class="col-xs-7 c-imput" type="number" id="inputoffset" placeholder="6757...">
+    <button id="btnencode" class="col-xs-5">cifrar</button>
+    <button id="btndecipher" class="col-xs-5">descifrar</button>
+  <p id="result" class="pregunta">RESULTADO</p>
+  <p class="Frase">"Oculta tu secreto incluso del amigo mas cercano; aprende a estar en silencio" Beethoven</p> 
+</div>
+</div>
+</div>
 </div>
     <script src="cipher.js"></script>
     <script src="index.js"></script>
