@@ -5,7 +5,7 @@ En la industria de la música  son muchos los artistas que luchan por lograr el 
 
 Evita plagios y manten tus composiciones seguras.
 Puedes ingresar el offset que desees , esa sera por decirlo asi tu clave para descifrar tus letras.
-=======
+
 ## ¿Como Funciona?
 Es muy facil, te dejo el link por aqui => [Cifrado Musical](https://estherteran.github.io/LIM009-Cipher/src/index "titulo")
 
